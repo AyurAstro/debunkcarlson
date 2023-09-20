@@ -11,10 +11,6 @@ In 1985, a recent Bachelor of Science graduate, Shawn Carlson, published in the 
   
 ​It “was prepared as an account of work sponsored by the United States Government” and was declared “… a perfectly convincing and lasting demonstration” by the journal’s editor. \[1\]
 
-if (!window.scribd\_js\_loaded) { window.scribd\_js\_loaded = true; document.write("<scr"+"ipt type=\\"text/javascript\\" src=\\"//www.scribd.com/javascripts/scribd\_api.js\\"></scr"+"ipt>"); } var scribd\_doc\_653509883 = scribd.Document.getDoc(653509883, "key-cWnJ8b7z2jbHXz0tIsKp"); scribd\_doc\_653509883.addParam("jsapi\_version", 2); scribd\_doc\_653509883.addParam("height", 500); scribd\_doc\_653509883.addParam("width", "100%"); scribd\_doc\_653509883.write("doc\_653509883");
-
-[![](//www.weebly.com/weebly/images/file_icons/pdf.png)](double-blind_test_of_astrology_-_shawn_carlson.pdf "Download file: double-blind_test_of_astrology_-_shawn_carlson.pdf")
-
 **double-blind\_test\_of\_astrology\_-\_shawn\_carlson.pdf**
 
 File Size:
