@@ -11,7 +11,7 @@ In 1985, a recent Bachelor of Science graduate, Shawn Carlson, published in the 
   
 ​It “was prepared as an account of work sponsored by the United States Government” and was declared “… a perfectly convincing and lasting demonstration” by the journal’s editor. \[1\]
 
-**double-blind\_test\_of\_astrology\_-\_shawn\_carlson.pdf**
+**double-blind\_test\_of\_astrology\_-\_shawn\_carlson.pdf** << downloadable above
 
 [Download File](double-blind_test_of_astrology_-_shawn_carlson.pdf "Download file: double-blind_test_of_astrology_-_shawn_carlson.pdf")
 
@@ -189,10 +189,8 @@ _Nature_ should retract the article.
 
 **Calculations:**
 
-if (!window.scribd\_js\_loaded) { window.scribd\_js\_loaded = true; document.write("<scr"+"ipt type=\\"text/javascript\\" src=\\"//www.scribd.com/javascripts/scribd\_api.js\\"></scr"+"ipt>"); } var scribd\_doc\_655279789 = scribd.Document.getDoc(655279789, "key-koG6L8D3jITSix5i4xyU"); scribd\_doc\_655279789.addParam("jsapi\_version", 2); scribd\_doc\_655279789.addParam("height", 500); scribd\_doc\_655279789.addParam("width", "100%"); scribd\_doc\_655279789.write("doc\_655279789");
-
 [![](carlson_calculations.pdf "Download file: carlson_calculations.pdf")
 
-**carlson\_calculations.pdf**
+**carlson\_calculations.pdf**  << downloadable above
 
 * * *
