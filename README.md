@@ -203,18 +203,8 @@ _Nature_ should retract the article.
 
 if (!window.scribd\_js\_loaded) { window.scribd\_js\_loaded = true; document.write("<scr"+"ipt type=\\"text/javascript\\" src=\\"//www.scribd.com/javascripts/scribd\_api.js\\"></scr"+"ipt>"); } var scribd\_doc\_655279789 = scribd.Document.getDoc(655279789, "key-koG6L8D3jITSix5i4xyU"); scribd\_doc\_655279789.addParam("jsapi\_version", 2); scribd\_doc\_655279789.addParam("height", 500); scribd\_doc\_655279789.addParam("width", "100%"); scribd\_doc\_655279789.write("doc\_655279789");
 
-[![](//www.weebly.com/weebly/images/file_icons/pdf.png)](carlson_calculations.pdf "Download file: carlson_calculations.pdf")
+[![](carlson_calculations.pdf "Download file: carlson_calculations.pdf")
 
 **carlson\_calculations.pdf**
-
-File Size:
-
-137 kb
-
-File Type:
-
-pdf
-
-[Download File](carlson_calculations.pdf "Download file: carlson_calculations.pdf")
 
 * * *
