@@ -77,7 +77,7 @@ An iterative, one-case deletion algorithm is appropriate for our one-variable li
   
 Note that none of the steps in these tests are based on p-values. Let’s apply the set of computations to the data above.  
   
-## Phase A: All 10 points are considered_  
+## Phase A: All 10 points are considered
   
 1\. The regression relation is depicted and described above.  
 2. 
@@ -94,7 +94,7 @@ Note that none of the steps in these tests are based on p-values. Let’s apply 
   
 ​​4. The cutoff for n = 10 here is 2 divided by the square root of 10 or 0.632456. The point identified from step 2 that corresponds to a ranking of 10 has an absolute value that far exceeds that cut-off. It is thus a strong candidate as an outlier influence and should be removed.  
    
-## Phase B: Rankings only of 1 through 9 are considered_**  
+## Phase B: Rankings only of 1 through 9 are considered 
 ​ 
 1.  The best fit linear regression is depicted.
 
