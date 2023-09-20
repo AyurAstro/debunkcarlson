@@ -13,14 +13,6 @@ In 1985, a recent Bachelor of Science graduate, Shawn Carlson, published in the 
 
 **double-blind\_test\_of\_astrology\_-\_shawn\_carlson.pdf**
 
-File Size:
-
-1241 kb
-
-File Type:
-
-pdf
-
 [Download File](double-blind_test_of_astrology_-_shawn_carlson.pdf "Download file: double-blind_test_of_astrology_-_shawn_carlson.pdf")
 
 * * *
