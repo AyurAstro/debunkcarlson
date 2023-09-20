@@ -5,8 +5,7 @@
 Shawn Carlson's 1985 study on astrology, published in _Nature_, has been highly influential in critiques of astrology as a scientifically valid phenomenon. However, the closure drawn on astrology in the study, based on the lack of statistical significance in the linear regression analysis of astrologers' performance, remains questionable. In this article, we revisit Carlson's study, focusing on Figure 2 and the linear regression. Applying modern, algorithmic influence-testing using Cook Distances and DFBETAS, we examine potential outliers and reformulate the best fit line, yielding relevant rankings of 1-8, comprising 93.8% of data. The resulting regression relation (y = 0.507 + 0.0954 x) has an ANOVA p-value for the slope term of 0.0113, indicating the astrologers' actions do have a statistically significant effect. R-squared for this model is 0.684. Our findings suggest that Carlson's conclusion might not adequately consider modern statistical techniques, even as they were available to him, and further quantitative analysis of astrology may still be relevant today.  
   
   
-**Introduction  
-​**  
+**Introduction ​**  
 In 1985, a recent Bachelor of Science graduate, Shawn Carlson, published in the premier science magazine (then or now) -- _Nature --_ a study of astrology!  
   
 ​It “was prepared as an account of work sponsored by the United States Government” and was declared “… a perfectly convincing and lasting demonstration” by the journal’s editor. \[1\]
@@ -38,7 +37,6 @@ First, let’s consider the data. Consistent with the publication standards of t
 When the last column of data is graphed with its best fit line, a dismal picture emerges.
 
 [![Picture](aastrologer-rankings-all-10_orig.png)](aastrologer-rankings-all-10_orig.png)
-
   
 ​The best fit line is y = 0.724701 +0.03262x with an ANOVA p-value of fit for the slope of the line being 0.276045. In other words, one can not claim that the slope (a measure of effect) is different from that for a flat line which has a slope of zero.   
   
@@ -58,7 +56,6 @@ As others have brought up, there are major, legitimate, and co-existing concerns
 *   the fact that the absence of proof is not proof of absence
 *   and there are actually many more. \[1\] \[8\]
 
-  
 I will focus on the particular linear regression above.  
   
 **The Solution**  
@@ -80,8 +77,8 @@ An iterative, one-case deletion algorithm is appropriate for our one-variable li
   
 Note that none of the steps in these tests are based on p-values. Let’s apply the set of computations to the data above.  
   
-_Phase A: All 10 points are considered_  
-**​**  
+## Phase A: All 10 points are considered_  
+  
 1\. The regression relation is depicted and described above.  
 2. 
 
@@ -97,8 +94,8 @@ _Phase A: All 10 points are considered_
   
 ​​4. The cutoff for n = 10 here is 2 divided by the square root of 10 or 0.632456. The point identified from step 2 that corresponds to a ranking of 10 has an absolute value that far exceeds that cut-off. It is thus a strong candidate as an outlier influence and should be removed.  
    
-_Phase B: Rankings only of 1 through 9 are considered_**  
-​**  
+## Phase B: Rankings only of 1 through 9 are considered_**  
+​ 
 1.  The best fit linear regression is depicted.
 
 [![Picture](linear-regression-9_orig.png)](linear-regression-9_orig.png)
@@ -120,8 +117,8 @@ Here there is a clear outlier point at ranking of 9 whose Cook Distance far exce
   
 ​4. The cutoff for n = 9 here is 2 divided by the square root of 9 or 0.66667. The point identified from step 2 that corresponds to a ranking of 9 has an absolute value that far exceeds that cut-off. It is thus a strong candidate as an outlier influence and should be removed.  
   
-_Phase C: Rankings only of 1 through 8 are considered  
-_  
+## Phase C: Rankings only of 1 through 8 are considered  
+
 ​1 . 
 
 [![Picture](linear-regression-8_orig.png)](linear-regression-8_orig.png)
