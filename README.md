@@ -165,6 +165,7 @@ After all, "failure to conduct post model fitting diagnostics for variance compo
 _Nature_ should retract the article.
 
 
+
 **Sites Cited**  
 ​  
 \[1\] [http://www.astrology-research.net/researchlibrary/U\_Turn\_in\_Carson\_Astrology\_Test.pdf](http://www.astrology-research.net/researchlibrary/U_Turn_in_Carson_Astrology_Test.pdf)  
@@ -187,6 +188,8 @@ _Nature_ should retract the article.
 
 
 **Calculations:**
+
 [Download File](carlson_calculations.pdf "Download file: carlson_calculations.pdf")
+
 **carlson\_calculations.pdf**  << downloadable above at the top of the page
 * * *
