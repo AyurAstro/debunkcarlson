@@ -12,7 +12,7 @@ In 1985, a recent Bachelor of Science graduate, Shawn Carlson, published in the 
 
 **double-blind\_test\_of\_astrology\_-\_shawn\_carlson.pdf** << also downloadable above
 
-[Download File](double-blind_test_of_astrology_-_shawn_carlson.pdf "Download file: double-blind_test_of_astrology_-_shawn_carlson.pdf")
+[Download Reference File](double-blind_test_of_astrology_-_shawn_carlson.pdf "Download file: double-blind_test_of_astrology_-_shawn_carlson.pdf")
 
 * * *
 
