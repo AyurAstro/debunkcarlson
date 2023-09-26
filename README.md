@@ -189,7 +189,11 @@ _Nature_ should retract the article.
 
 **Calculations:**
 
-[Download File](carlson_calculations.pdf "Download file: carlson_calculations.pdf")
+[Download PDF File of Calculations](carlson_calculations.pdf "Download file: carlson_calculations.pdf")
+
+
+[Download Mathematica Notebook of Calculations](carlson_calculations.pdf "Download file: carlson_calculations.nb")
 
 **carlson\_calculations.pdf**  << also downloadable above at the top of the page
+**carlson\_calculations.nb**   << also downloadable above at the top of the page
 * * *
