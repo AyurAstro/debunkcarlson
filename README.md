@@ -50,10 +50,10 @@ Not at all.
   
 As others have brought up, there are major, legitimate, and co-existing concerns with the methodology of the study as a whole, such as:
 
-*   the entropic travels of the experimental design
-*   Likert-type issues
-*   manipulation of sample size that balloons the chance of a false negative (and a negative is what was found here)
-*   the fact that the absence of proof is not proof of absence
+*   the entropic travels of the experimental design,
+*   Likert-type issues,
+*   manipulation of sample size that balloons the chance of a false negative (and a negative is what was found here),
+*   the fact that the absence of proof is not proof of absence,
 *   and there are actually many more. \[1\] \[8\]
 
 I will focus on the particular linear regression above.  
